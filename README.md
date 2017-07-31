@@ -1,0 +1,2 @@
+# PixivDownloader
+workflow update info
